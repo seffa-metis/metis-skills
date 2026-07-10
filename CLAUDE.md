@@ -1,3 +1,5 @@
+This repo is forked from [mattpocock/skills](https://github.com/mattpocock/skills) and serves as the baseline for Metis Consulting Group's internal library of Claude Code skills, agents, and hooks, shared and used by other developers at the company.
+
 Skills are organized into bucket folders under `skills/`:
 
 - `engineering/` — daily code work
